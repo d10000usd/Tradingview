@@ -57,3 +57,20 @@ http://localhost:3000/index.html
 * [TradingView Charting Library](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/)
 * [TradingView Charting Library Demo](https://charting-library.tradingview.com/)
 * [TradingView GitHub](https://github.com/tradingview)
+
+
+
+
+## Installation
+- ** 설치 docker 를 권장<br>
+- 사용한 Docker image는 Docker Hub에 첨부합니다. <br>
+    - https: ~~ <br>
+
+```
+git clone https://github.com/d10000usd/Tradingview.git
+cd TRADINGVIEW
+pip install -r requirements.txt
+pip install .
+```
+
+
