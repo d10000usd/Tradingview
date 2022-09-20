@@ -47,7 +47,7 @@ $ http-server -p 3000
 ```
 
 Check in browser:
-# run live server-plugin is  port that make system  random choice
+# run live server-plugin port that make system  random choice
 or
 http://localhost:3000/index.html
 
