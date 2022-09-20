@@ -1,5 +1,5 @@
 # 도커는 명령어로 런하기 보다는 툴을 써서 사용하는것이 좋음
-#
+# 
 # docker --version
 
 # cd frontend && sudo docker run -it node
