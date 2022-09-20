@@ -47,7 +47,8 @@ $ http-server -p 3000
 ```
 
 Check in browser:
-
+run liver server plugin is random port that make your choice
+or
 http://localhost:3000/index.html
 
 ## Links
